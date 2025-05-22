@@ -1,4 +1,3 @@
-
 package projecte1_joan;
 
 public class Projecte1_Joan {
